@@ -1,0 +1,13 @@
+{
+  "name": "rnode",
+  "version": "0.0.1",
+  "description": "Redis Node classes",
+  "author": {
+    "name": "Dmitry Degtyarev",
+    "email": "ddegtyarev@gmail.com"
+  },
+  "main": "./rnode.js",
+  "dependencies": {
+    "crypto": "*"
+  }
+}
